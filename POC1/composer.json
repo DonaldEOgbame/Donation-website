@@ -1,0 +1,8 @@
+{
+    "name": "local/donation_project",
+    "description": "Donation project using Paystack, SQLite, .env, and confetti animation",
+    "require": {
+      "vlucas/phpdotenv": "^5.5"
+    }
+  }
+  
